@@ -576,7 +576,7 @@ a:focus, a:hover {
   display: flex;
   justify-content: center;
   align-items: center;
- background-color: #0e1111
+ background-color: #0e1111;
 	
   
 
@@ -718,7 +718,7 @@ a:focus, a:hover {
   About us 2 section
 ==================================================================*/
 .about-2 {
-  background: #232b2b;
+  background: #0e1111;
 }
 .about-2 h2 {
   position: relative;
@@ -884,7 +884,7 @@ a:focus, a:hover {
 }
 
 .experiencias {
-	background: linear-gradient(180deg, #0e1111, #333);
+	background:#0e1111;
 	
 }
 
@@ -1302,7 +1302,7 @@ a:focus, a:hover {
   Footer section
 ==================================================================*/
 .top-footer {
-  background-color: #222222;
+  background-color: #0e1111;
   border-top: 1px solid #404040;
   padding: 100px 0 80px;
 }
